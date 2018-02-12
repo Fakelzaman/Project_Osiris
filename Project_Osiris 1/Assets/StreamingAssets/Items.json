@@ -1,0 +1,44 @@
+[
+	{
+		"id": 0,
+		"title": "Steel Gloves",
+		"value": 6,
+		"stats":{
+			"power": 1,
+			"defence": 4,
+			"vitality": 2
+		},
+		"description": "Gloves made from steel used to steal steel from the steel factory",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "steel_gloves"
+	},
+	{
+		"id": 1,
+		"title": "Wooden Sword",
+		"value": 543,
+		"stats":{
+			"power": 56,
+			"defence": 2,
+			"vitality": 54
+		},
+		"description": "Its a stick and its fucken sharp",
+		"stackable": true,
+		"rarity": 6,
+		"slug": "the_great_stick"
+	},
+		{
+		"id": 2,
+		"title": "Bullet",
+		"value": 54,
+		"stats":{
+			"power": 56,
+			"defence": 2,
+			"vitality": 54
+		},
+		"description": "Ammo for a revolver",
+		"stackable": true,
+		"rarity": 6,
+		"slug": "bullet"
+	}
+]
